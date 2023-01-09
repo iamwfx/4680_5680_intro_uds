@@ -7,11 +7,11 @@ Please sign up for our class Slack Group. This is where you can troubleshoot wit
 
 ## Companion courses and events: 
 1.	Required: Practitioners Talk Series (CRP 5000)\
-Details in [Cornell Classes page](https://classes.cornell.edu/)
+Details in [Cornell Classes page](https://classes.cornell.edu/)\
 Pizza will be served
 2.	Highly recommended: Introduction to Python Workshop (Jan 24)\
-Details in [Cornell Classes page](https://classes.cornell.edu/)
-Taught by Jacob Grippin (jrg363@cornell.edu) at the Cornell Center for Social Sciences
+Details in [Cornell Classes page](https://classes.cornell.edu/)\
+Taught by Jacob Grippin (jrg363@cornell.edu) at the Cornell Center for Social Sciences\
 This workshop will help students get set up with the Jupyter notebook computing environment we will be using throughout the course as well as offer an introduction to Python. 
 
 ## Course Description
