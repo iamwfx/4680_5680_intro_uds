@@ -57,7 +57,7 @@ A personal laptop with permissions to install software is required for this cour
 ## Assignments and Grading
 The assignments in this course will consist of short, in-class exercises at the end of each lecture meant to give you some practice implementing the concepts covered in lecture, four homework assignments, a project proposal, and a final project including a presentation on your project. The homework assignments should be a zip file of all the relevant notebooks, datasets, and outputs for the assignment. Please check that the notebooks run without error. The final projects can either be individual submissions or submissions of groups of two. Additionally, active class participation in the classroom and the class Slack will be a part of the final grade.
 
-Grading breakdown as follows:\
+Grading breakdown as follows:
 - In-class exercises: 20% 
 - Homework: 30% 
 - Final Project Proposal: 10%
