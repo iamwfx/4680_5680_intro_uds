@@ -26,7 +26,7 @@ Taught by Jacob Grippin (jrg363@cornell.edu) at the Cornell Center for Social Sc
 This workshop will help students get set up with the Jupyter notebook computing environment we will be using throughout the course as well as offer an introduction to Python.
 
 ## Course Description
-Urban data science is an emergent practice in geography and urban planning that combines: 1) the set of data analysis tools and methods used to understand a wide array of big data and big spatial data sources and, 2) questions of urban development, structure, complexity, theory, policy, dynamics, and outcomes. These approaches enable more spatiotemporally dynamic and granular analyses of cities and allows researchers new insight into urban dynamics.
+Urban data science is an emergent practice in geography and urban planning that combines: 1) the set of data analysis tools and methods used to understand a wide array of big data and big spatial data sources and, 2) questions of urban development, structure, complexity, theory, policy, dynamics, and outcomes. These approaches enable more spatiotemporally dynamic and granular analyses of cities and allow researchers new insight into urban dynamics.
 
 This course will provide a toolkit to speak through data, code, statistics, and visualization. Using open-source data and computational tools in Python and the Jupyter Notebook environment, we will learn how to design testable research questions, collect and prepare data, apply relevant analytical techniques, present our process and results in an engaging and informative way, and identify the limitations of quantitative analysis. A personal laptop will be required.
 
@@ -40,7 +40,7 @@ The core learning objectives are:
 4. Identify the limitations and potential biases in the data, data-generating processes, and tools and methods in addressing your research topic
 
 ## Class Structure
-Weeks 1-13: Every class will include a lecture with embedded code snippets to follow along to and an a brief exercise at the end of the class to practice the concept you just learned. We will also have six Practitioners Talk Series talks from 4:30 – 5:30pm on some Mondays. There are four coding homeworks during this period
+Weeks 1-13: Every class will include a lecture with embedded code snippets to follow along to and a brief exercise at the end of the class to practice the concept you just learned. We will also have six Practitioners Talk Series talks from 4:30 – 5:30 pm on some Mondays. There are four coding homeworks during this period
 
 Weeks 14-16: The last three weeks of the class will be devoted to a final project of your choosing that addresses an urban development question. The aim is to synthesize and further develop the skills you have learned throughout the course of the semester. The proposals for the project will be due Week 10. In class for Weeks 14 and 15, each project group or individual will meet with me to discuss your progress, technical or conceptual roadblocks, and next steps. Our last two classes of the semester will be devoted to final presentations. Your final projects will be due on May 19 at 11:59 pm.
 
