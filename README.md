@@ -2,18 +2,15 @@
 Spring 2023\
 Professor Wenfei Xu (wenfeixu@cornell.edu)\
 Class details in [Cornell Classes page](https://classes.cornell.edu/)\
-Office Hours: Mondays 1 – 2:30 pm, Wednesdays 11 – 12:30 pm in Wenfei's Office
+Office Hours: Mondays 1 – 2:30 pm, Wednesdays 11 – 12:30 pm in Sibley Hall 221
 
 ## TA and GTRS
 Zoe Wang (TA) zw553@cornell.edu\
-Office hours: TBD\
+Office hours: Tuesdays 1 - 2:30 pm in Sibley Hall 205 \
 Yuetong Wang (GTRS) yw795@cornell.edu \
-Office hours: TBD
+Office hours: Thursdays 5 - 6pm in Sibley Hall 305
 
 ## Class Slack
-Please sign up for our class Slack Group. This is where you can troubleshoot with us and each other. Note that you can add code blocks in your messages.
-
-## Companion courses and events:
 Please sign up for our class Slack Group. This is where you can troubleshoot with us and each other. Note that you can add code blocks in your messages.
 
 ## Companion courses and events:
@@ -48,9 +45,9 @@ Weeks 14-16: The last three weeks of the class will be devoted to a final projec
 If you need to miss class, please let me know beforehand. Arriving at class 15 minutes or later counts as an absence. Three unexcused absences from either day of class will result in lowering one letter grade (for ex: A to B, B- to C-). Five or more unexcused absences will result in failure in the course. To avoid failing the course, I suggest you withdraw rather than receive an F. If you have to miss class for any reason, please get the notes from class from a classmate. If you miss class, I still expect you to complete the in-class exercise.
 
 ## Course Prerequisites
-This course is designed for masters students and upper class undergraduate students. Course 5080 (Introduction to GIS) is a prerequisite for the course. Additionally, I assume some basic statistics knowledge (mean, median, mode) and some familiarity using a spreadsheet software (Excel, Google spreadsheets). Prior or concurrent coursework in quantitative methods, statistics, visualization, and object oriented programming is recommended.
+This course is designed for masters students and upper class undergraduate students. Course 5080 (Introduction to GIS) is **high recommended** for the course. We will not be covering any of the basics of GIS in this course. Additionally, I assume some basic statistics knowledge (mean, median, mode) and some familiarity using a spreadsheet software (Excel, Google spreadsheets). Prior or concurrent coursework in quantitative methods, statistics, visualization, and object oriented programming is recommended.
 
-### A note about learning to code
+#### A note about learning to code
 Coding is an iterative process involving (a lot of) trial and error, patience, self-direction, and clever Googling. It can seem daunting and intractable at first. Here are some guidelines and resources to help you through this process:
 1.	Look for typos in the code.
 2.	Search for the issue on Google. This will often lead you to sites such as Stack Overflow or Medium, which provides code snippets and sometimes step-by-step instructions on how to resolve your question. Try to be specific in your search. Do not be afraid to sound silly. My search generally involves the following keywords:
@@ -103,11 +100,11 @@ If you test positive for COVID, please submit your status to [Daily Check](https
 |     6       |     **Feb 27     <br>NO   CLASS – FEBRUARY BREAK**                                                                                                                                                                                    |     **Mar 1      Spatial   data analysis 1**<br> Spatial   weights with pysal                                                                                                                               |
 |     7       |     **Mar 6     Spatial   data analysis 2**<br> Spatial   autocorrelation with pysal           <br><br>Practitioner Talk   Series: TBD                                                                                                                        |    **Mar 8     Spatial   data analysis 3**<br> Point   pattern analysis                <br><br> HW 2   Due Mar 12 at 11:59pm                                                                                       |
 |     8       |    **Mar 13     Unsupervised   learning 1**<br> Dimensionality   reduction and K-means clustering with scikit-learn      <br><br>      Practitioner Talk   Series: TBD                                                                                       |     **Mar 15     Unsupervised   learning 2**<br>   Spatial clustering and regionalization                                                                                                                   |
-|     9       |     **Mar 20     Regression   1**<br> Linear regression with   statsmodels and scikit-learn                                                                                                                                                           |     **Mar 22     <br>No lecture (Zoe review day?) – AAG**            <br><br>HW 3   Due Mar 26 at 11:59pm                                                                                                                              |
+|     9       |     **Mar 20     Regression   1**<br> Linear regression with   statsmodels and scikit-learn                                                                                                                                                           |     **Mar 22     <br>No lecture (Yuetong review day?) – AAG**            <br><br>HW 3   Due Mar 26 at 11:59pm                                                                                                                              |
 |     10      |     **Mar 27      Regression   2**<br> Spatial regression with   pysal                                                                                                                                                                                |     **Mar 29     Supervised   learning 1**<br>Classification   with scikit-learn<br>          <br><br>Project   Proposal Due Mar 31 at 11:59pm                                                                       |
 |     11      |     **Apr 3     <br>NO CLASS – SPRING   BREAK**                                                                                                                                                                                                        |     **Apr 5    <br> NO CLASS – SPRING   BREAK**                                                                                                                                                              |
 |     12      |     **Apr 10     Supervised   learning 2** <br>Ensemble   learning with decision trees and random forest models with scikit-learn                                                                                                                     |     **Apr 12     Supervised   learning 3**<br> Regression   vs classification, model selection, bias-variance tradeoff, and   cross-validation with scikit-learn            <br><br>HW 4   Due Mar 26 at 11:59pm    |
 |     13      |     **Apr 17     Special   topics 1**<br>   OpenStreetMap with OSMnx                                                                                                                                                                                  |     **Apr 19     Special topics 2**<br> Spatial Inequality                                                                                                                                                  |
-|     14      |     **Apr 24**<br>    In-class   work and one-on-one final projects meetings with Wenfei                                                                                                                                                              |     **Apr 26     <br>No lecture (Zoe review day?) – UAA**                                                                                                                                                                 |
+|     14      |     **Apr 24**<br>    In-class   work and one-on-one final projects meetings with Wenfei                                                                                                                                                              |     **Apr 26     <br>No lecture (Yuetong review day?) – UAA**                                                                                                                                                                 |
 |     15      |     **May 1**<br>    In-class   work and one-on-one final projects meetings with Wenfei                                                                                                                                                               |     **May 3**<br>     Final Project Presentations   1                                                                                                                                                        |
 |     16      |     **May 9**<br>Final Project   Presentations 2                                                                                                                                                                                                            |     **Final project   materials due May 19 at 11:59pm**                                                                                                                                                  |
