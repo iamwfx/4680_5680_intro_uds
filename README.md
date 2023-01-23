@@ -16,7 +16,9 @@ Please sign up for our class Slack Group. This is where you can troubleshoot wit
 ## Companion courses and events:
 1.	Required: Practitioners Talk Series (CRP 5000)\
 Details in [Cornell Classes page](https://classes.cornell.edu/)\
-Pizza will be served
+Pizza will be served\
+Please contact Rachel Elmkies re238@cornell.edu for any logistical concerns.
+
 2.	Highly recommended: Introduction to Python Workshop (Jan 24)\
 Details in [Cornell Classes page](https://classes.cornell.edu/)\
 Taught by Jacob Grippin (jrg363@cornell.edu) at the Cornell Center for Social Sciences\
