@@ -1,0 +1,385 @@
+Rank,MSA,population_2021_est,population_2020,perc_change
+1,"New York-Newark-Jersey City, NY-NJ-CT-PA MSA",19768458,20140470,1.85%
+2,"Los Angeles-Long Beach-Anaheim, CA MSA",12997353,13200998,1.54%
+3,"Chicago-Naperville-Elgin, IL-IN-WI MSA",9509934,9618502,1.13%
+4,"Dallas-Fort Worth-Arlington, TX MSA",7759615,7637387,+1.60%
+5,"Houston-The Woodlands-Sugar Land, TX MSA",7206841,7122240,+1.19%
+6,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",6356434,6385162,0.45%
+7,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",6228601,6245051,0.26%
+8,"Atlanta-Sandy Springs-Alpharetta, GA MSA",6144050,6089815,+0.89%
+9,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",6091747,6138333,0.76%
+10,"Phoenix-Mesa-Chandler, AZ MSA",4946145,4845832,+2.07%
+11,"Boston-Cambridge-Newton, MA-NH MSA",4899932,4941632,0.84%
+12,"Riverside-San Bernardino-Ontario, CA MSA",4653105,4599839,+1.16%
+13,"San Francisco-Oakland-Berkeley, CA MSA",4623264,4749008,2.65%
+14,"DetroitâWarrenâDearborn, MI MSA",4365205,4392041,0.61%
+15,"Seattle-Tacoma-Bellevue, WA MSA",4011553,4018762,0.18%
+16,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",3690512,3690261,+0.01%
+17,"San Diego-Chula Vista-Carlsbad, CA MSA",3286069,3298634,0.38%
+18,"Tampa-St. Petersburg-Clearwater, FL MSA",3219514,3175275,+1.39%
+19,"Denver-Aurora-Lakewood, CO MSA",2972566,2963821,+0.30%
+20,"Baltimore-Columbia-Towson, MD MSA",2838327,2844510,0.22%
+21,"St. Louis, MO-IL MSA",2809299,2820253,0.39%
+22,"Charlotte-Concord-Gastonia, NC-SC MSA",2701046,2660329,+1.53%
+23,"Orlando-Kissimmee-Sanford, FL MSA",2691925,2673376,+0.69%
+24,"San Antonio-New Braunfels, TX MSA",2601788,2558143,+1.71%
+25,"Portland-Vancouver-Hillsboro, OR-WA MSA",2511612,2512859,0.05%
+26,"Sacramento-Roseville-Folsom, CA MSA",2411428,2397382,+0.59%
+27,"Pittsburgh, PA MSA",2353538,2370930,0.73%
+28,"Austin-Round Rock-Georgetown, TX MSA",2352426,2283371,+3.02%
+29,"Las Vegas-Henderson-Paradise, NV MSA",2292476,2265461,+1.19%
+30,"Cincinnati, OH-KY-IN MSA",2259935,2256884,+0.14%
+31,"Kansas City, MO-KS MSA",2199490,2192035,+0.34%
+32,"Columbus, OH MSA",2151017,2138926,+0.57%
+33,"Indianapolis-Carmel-Anderson, IN MSA",2126804,2111040,+0.75%
+34,"Cleveland-Elyria, OH MSA",2075662,2088251,0.60%
+35,"Nashville-DavidsonâMurfreesboroâFranklin, TN MSA",2012476,1989519,+1.15%
+36,"San Jose-Sunnyvale-Santa Clara, CA MSA",1952185,2000468,2.41%
+37,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",1803328,1799674,+0.20%
+38,"Providence-Warwick, RI-MA MSA",1675774,1676579,0.05%
+39,"Jacksonville, FL MSA",1637666,1605848,+1.98%
+40,"Milwaukee-Waukesha, WI MSA",1566487,1574731,0.52%
+41,"Raleigh-Cary, NC MSA",1448411,1413982,+2.43%
+42,"Oklahoma City, OK MSA",1441647,1425695,+1.12%
+43,"Memphis, TN-MS-AR MSA",1336103,1337779,0.13%
+44,"Richmond, VA MSA",1324062,1314434,+0.73%
+45,"Louisville/Jefferson County, KY-IN MSA",1284566,1285439,0.07%
+46,"Salt Lake City, UT MSA",1263061,1257936,+0.41%
+47,"New Orleans-Metairie, LA MSA",1261726,1271845,0.80%
+48,"Hartford-East Hartford-Middletown, CT MSA",1211906,1213531,0.13%
+49,"Buffalo-Niagara Falls, NY MSA",1162336,1166902,0.39%
+50,"Birmingham-Hoover, AL MSA",1114262,1115289,0.09%
+51,"Grand Rapids-Kentwood, MI MSA",1091620,1087592,+0.37%
+52,"Rochester, NY MSA",1084973,1090135,0.47%
+53,"Tucson, AZ MSA",1052030,1043433,+0.82%
+54,"Tulsa, OK MSA",1023988,1015331,+0.85%
+55,"Fresno, CA MSA",1013581,1008654,+0.49%
+56,"Urban Honolulu, HI MSA",1000890,1016508,1.54%
+57,"Worcester, MA-CT MSA",978447,978529,0.01%
+58,"Omaha-Council Bluffs, NE-IA MSA",971637,967604,+0.42%
+59,"Bridgeport-Stamford-Norwalk, CT MSA",959768,957419,+0.25%
+60,"Greenville-Anderson, SC MSA",940774,928195,+1.36%
+61,"Albuquerque, NM MSA",918259,916528,+0.19%
+62,"Bakersfield, CA MSA",917673,909235,+0.93%
+63,"Albany-Schenectady-Troy, NY MSA",899286,899262,
+64,"Knoxville, TN MSA",893412,879773,+1.55%
+65,"McAllen-Edinburg-Mission, TX MSA",880356,870781,+1.10%
+66,"Baton Rouge, LA MSA",871905,870569,+0.15%
+67,"El Paso, TX MSA",871234,868859,+0.27%
+68,"Allentown-Bethlehem-Easton, PA-NJ MSA",865310,861889,+0.40%
+69,"New Haven-Milford, CT MSA",863700,864835,0.13%
+70,"North Port-Sarasota-Bradenton, FL MSA",859760,833716,+3.12%
+71,"Oxnard-Thousand Oaks-Ventura, CA MSA",839784,843843,0.48%
+72,"Columbia, SC MSA",838250,829470,+1.06%
+73,"Dayton, OH MSA",813516,814049,0.07%
+74,"Charleston-North Charleston, SC MSA",813052,799636,+1.68%
+75,"Boise, ID MSA",795268,764718,+3.99%
+76,"Stockton, CA MSA",789410,779233,+1.31%
+77,"Cape Coral-Fort Myers, FL MSA",787976,760822,+3.57%
+78,"Greensboro-High Point, NC MSA",778848,776566,+0.29%
+79,"Colorado Springs, CO MSA",762793,755105,+1.02%
+80,"Lakeland-Winter Haven, FL MSA",753520,725046,+3.93%
+81,"Little Rock-North Little Rock-Conway, AR MSA",750936,748031,+0.39%
+82,"Des Moines-West Des Moines, IA MSA",719146,709466,+1.36%
+83,"Ogden-Clearfield, UT MSA",706696,694863,+1.70%
+84,"Poughkeepsie-Newburgh-Middletown, NY MSA",701637,697221,+0.63%
+85,"Akron, OH MSA",700015,702219,0.31%
+86,"Provo-Orem, UT MSA",697141,671185,+3.87%
+87,"Springfield, MA MSA",695305,699162,0.55%
+88,"Deltona-Daytona Beach-Ormond Beach, FL MSA",685344,668921,+2.46%
+89,"Madison, WI MSA",683183,680796,+0.35%
+90,"Winston-Salem, NC MSA",681438,675966,+0.81%
+91,"Syracuse, NY MSA",658281,662057,0.57%
+92,"Durham-Chapel Hill, NC MSA",654012,649903,+0.63%
+93,"Wichita, KS MSA",647919,647610,+0.05%
+94,"Toledo, OH MSA",644217,646604,0.37%
+95,"Palm Bay-Melbourne-Titusville, FL MSA",616628,606612,+1.65%
+96,"Augusta-Richmond County, GA-SC MSA",615933,611000,+0.81%
+97,"Harrisburg-Carlisle, PA MSA",596305,591712,+0.78%
+98,"Spokane-Spokane Valley, WA MSA",593466,585784,+1.31%
+99,"Jackson, MS MSA",587202,591978,0.81%
+100,"ScrantonâWilkes-Barre, PA MSA",567750,567559,+0.03%
+101,"Chattanooga, TN-GA MSA",567641,562647,+0.89%
+102,"Fayetteville-Springdale-Rogers, AR MSA",560709,546725,+2.56%
+103,"Portland-South Portland, ME MSA",556893,551740,+0.93%
+104,"Lancaster, PA MSA",553652,552984,+0.12%
+105,"Modesto, CA MSA",552999,552878,+0.02%
+106,"Lansing-East Lansing, MI MSA",540281,541297,0.19%
+107,"Youngstown-Warren-Boardman, OH-PA MSA",538069,541243,0.59%
+108,"Fayetteville, NC MSA",524588,520378,+0.81%
+109,"Lexington-Fayette, KY MSA",517846,516811,+0.20%
+110,"Pensacola-Ferry Pass-Brent, FL MSA",516388,509905,+1.27%
+111,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",509794,487722,+4.53%
+112,"Port St. Lucie, FL MSA",503521,487657,+3.25%
+113,"Huntsville, AL MSA",502728,491723,+2.24%
+114,"Reno, NV MSA",497535,490596,+1.41%
+115,"Killeen-Temple, TX MSA",486101,475367,+2.26%
+116,"Santa Rosa-Petaluma, CA MSA",485887,488863,0.61%
+117,"Springfield, MO MSA",481483,475432,+1.27%
+118,"Lafayette, LA MSA",479212,478384,+0.17%
+119,"Visalia, CA MSA",477054,473117,+0.83%
+120,"Asheville, NC MSA",472341,469015,+0.71%
+121,"York-Hanover, PA MSA",458696,456438,+0.49%
+122,"Vallejo, CA MSA",451716,453491,0.39%
+123,"Santa Maria-Santa Barbara, CA MSA",446475,448229,0.39%
+124,"Salinas, CA MSA",437325,439035,0.39%
+125,"Salem, OR MSA",436283,433353,+0.68%
+126,"Reading, PA MSA",429342,428849,+0.11%
+127,"Salisbury, MD-DE MSA",429223,418046,+2.67%
+128,"Mobile, AL MSA",428220,430197,0.46%
+129,"Manchester-Nashua, NH MSA",424079,422937,+0.27%
+130,"Fort Wayne, IN MSA",423038,419601,+0.82%
+131,"Brownsville-Harlingen, TX MSA",423029,421017,+0.48%
+132,"Corpus Christi, TX MSA",422778,421933,+0.20%
+133,"Gulfport-Biloxi, MS MSA",418082,416259,+0.44%
+134,"Savannah, GA MSA",410008,404798,+1.29%
+135,"Flint, MI MSA",404208,406211,0.49%
+136,"Canton-Massillon, OH MSA",400525,401574,0.26%
+137,"Anchorage, AK MSA",398807,398328,+0.12%
+138,"Peoria, IL MSA",398224,402391,1.04%
+139,"Beaumont-Port Arthur, TX MSA",395419,397565,0.54%
+140,"Shreveport-Bossier City, LA MSA",389155,393406,1.08%
+141,"Naples-Marco Island, FL MSA",385980,375752,+2.72%
+142,"Ocala, FL MSA",385915,375908,+2.66%
+143,"Trenton-Princeton, NJ MSA",385898,387340,0.37%
+144,"Montgomery, AL MSA",385798,386047,0.06%
+145,"Tallahassee, FL MSA",385776,384298,+0.38%
+146,"Eugene-Springfield, OR MSA",383189,382971,+0.06%
+147,"Davenport-Moline-Rock Island, IA-IL MSA",381568,384324,0.72%
+148,"Ann Arbor, MI MSA",369390,372258,0.77%
+149,"Hickory-Lenoir-Morganton, NC MSA",366441,365276,+0.32%
+150,"Fort Collins, CO MSA",362533,359066,+0.97%
+151,"Huntington-Ashland, WV-KY-OH MSA",356581,359862,0.91%
+152,"Lincoln, NE MSA",342117,340217,+0.56%
+153,"Gainesville, FL MSA",341756,339247,+0.74%
+154,"Greeley, CO MSA",340036,328981,+3.36%
+155,"Rockford, IL MSA",336278,338798,0.74%
+156,"Spartanburg, SC MSA",335864,327997,+2.40%
+157,"Boulder, CO MSA",329543,330758,0.37%
+158,"Green Bay, WI MSA",329490,328268,+0.37%
+159,"Clarksville, TN-KY MSA",328304,320535,+2.42%
+160,"Columbus, GA-AL MSA",327536,328883,0.41%
+161,"Lubbock, TX MSA",325245,321368,+1.21%
+162,"South Bend-Mishawaka, IN-MI MSA",323695,324501,0.25%
+163,"Roanoke, VA MSA",314496,315251,0.24%
+164,"Evansville, IN-KY MSA",313946,314049,0.03%
+165,"Kingsport-Bristol, TN-VA MSA",308661,307614,+0.34%
+166,"Kennewick-Richland, WA MSA",308293,303622,+1.54%
+167,"Hagerstown-Martinsburg, MD-WV MSA",298227,293844,+1.49%
+168,"Olympia-Lacey-Tumwater, WA MSA",297977,294793,+1.08%
+169,"Crestview-Fort Walton Beach-Destin, FL MSA",293324,286973,+2.21%
+170,"Wilmington, NC MSA",291833,285905,+2.07%
+171,"Duluth, MN-WI MSA",290780,291638,0.29%
+172,"Utica-Rome, NY MSA",290211,292264,0.70%
+173,"Longview, TX MSA",287868,286184,+0.59%
+174,"Merced, CA MSA",286461,281202,+1.87%
+175,"San Luis Obispo-Paso Robles, CA MSA",283159,282424,+0.26%
+176,"Sioux Falls, SD MSA",281958,276730,+1.89%
+177,"Waco, TX MSA",280428,277547,+1.04%
+178,"Cedar Rapids, IA MSA",275435,276520,0.39%
+179,"Atlantic City-Hammonton, NJ MSA",274966,274534,+0.16%
+180,"Bremerton-Silverdale-Port Orchard, WA MSA",274314,275611,0.47%
+181,"College Station-Bryan, TX MSA",272041,268248,+1.41%
+182,"Amarillo, TX MSA",269703,268691,+0.38%
+183,"Erie, PA MSA",269011,270876,0.69%
+184,"Norwich-New London, CT MSA",268805,268555,+0.09%
+185,"Tuscaloosa, AL MSA",268191,268674,0.18%
+186,"Laredo, TX MSA",267945,267114,+0.31%
+187,"Santa Cruz-Watsonville, CA MSA",267792,270861,1.13%
+188,"Lynchburg, VA MSA",262258,261593,+0.25%
+189,"Kalamazoo-Portage, MI MSA",261108,261670,0.21%
+190,"Yakima, WA MSA",256035,256728,0.27%
+191,"Charleston, WV MSA",255020,258859,1.48%
+192,"Fargo, ND-MN MSA",252136,249843,+0.92%
+193,"Fort Smith, AR-OK MSA",245459,244310,+0.47%
+194,"Binghamton, NY MSA",245220,247138,0.78%
+195,"Appleton, WI MSA",244084,243147,+0.39%
+196,"Prescott Valley-Prescott, AZ MSA",242253,236209,+2.56%
+197,"Daphne-Fairhope-Foley, AL MSA",239294,231767,+3.25%
+198,"Tyler, TX MSA",237186,233479,+1.59%
+199,"Macon-Bibb County, GA MSA",233883,233802,+0.03%
+200,"Topeka, KS MSA",232670,233152,0.21%
+201,"Barnstable Town, MA MSA",232411,228996,+1.49%
+202,"Bellingham, WA MSA",228831,226847,+0.87%
+203,"Rochester, MN MSA",227151,226329,+0.36%
+204,"Burlington-South Burlington, VT MSA",226611,225562,+0.47%
+205,"Lafayette-West Lafayette, IN MSA",224709,223716,+0.44%
+206,"Medford, OR MSA",223734,223259,+0.21%
+207,"Champaign-Urbana, IL MSA",222696,222538,+0.07%
+208,"Charlottesville, VA MSA",222688,221524,+0.53%
+209,"Hilton Head Island-Bluffton, SC MSA",222072,215908,+2.85%
+210,"Las Cruces, NM MSA",221508,219561,+0.89%
+211,"Athens-Clarke County, GA MSA",217759,215415,+1.09%
+212,"Lake Havasu City-Kingman, AZ MSA",217692,213267,+2.07%
+213,"Columbia, MO MSA",213123,210864,+1.07%
+214,"Lake Charles, LA MSA",210362,222402,5.41%
+215,"Chico, CA MSA",208309,211632,1.57%
+216,"Johnson City, TN MSA",208068,207285,+0.38%
+217,"Gainesville, GA MSA",207369,203136,+2.08%
+218,"Yuma, AZ MSA",206990,203881,+1.52%
+219,"Elkhart-Goshen, IN MSA",206921,207047,0.06%
+220,"Springfield, IL MSA",206898,208640,0.83%
+221,"Houma-Thibodaux, LA MSA",206212,207137,0.45%
+222,"Jacksonville, NC MSA",206160,204576,+0.77%
+223,"Monroe, LA MSA",204884,207104,1.07%
+224,"Bend, OR MSA",204801,198253,+3.30%
+225,"St. Cloud, MN MSA",200406,199671,+0.37%
+226,"Florence, SC MSA",199259,199964,0.35%
+227,"Racine, WI MSA",196896,197727,0.42%
+228,"Warner Robins, GA MSA",195246,191614,+1.90%
+229,"Punta Gorda, FL MSA",194843,186847,+4.28%
+230,"St. George, UT MSA",191226,180279,+6.07%
+231,"Saginaw, MI MSA",189591,190124,0.28%
+232,"Billings, MT MSA",187037,184167,+1.56%
+233,"Terre Haute, IN MSA",184910,185031,0.07%
+234,"Dover, DE MSA",184149,181851,+1.26%
+235,"Kingston, NY MSA",182951,181851,+0.60%
+236,"Bowling Green, KY MSA",182594,179639,+1.64%
+237,"Joplin, MO MSA",182541,181409,+0.62%
+238,"Yuba City, CA MSA",182484,181208,+0.70%
+239,"Redding, CA MSA",182139,182155,0.01%
+240,"Jackson, TN MSA",180799,180504,+0.16%
+241,"El Centro, CA MSA",179851,179702,+0.08%
+242,"Coeur d'Alene, ID MSA",179789,171362,+4.92%
+243,"Panama City, FL MSA",179168,175216,+2.26%
+244,"Abilene, TX MSA",177314,176579,+0.42%
+245,"Iowa City, IA MSA",177239,175419,+1.04%
+246,"Auburn-Opelika, AL MSA",177218,174241,+1.71%
+247,"Muskegon, MI MSA",176511,175824,+0.39%
+248,"Burlington, NC MSA",173877,171415,+1.44%
+249,"Eau Claire, WI MSA",173317,172007,+0.76%
+250,"Midland, TX MSA",173180,175220,1.16%
+251,"Hattiesburg, MS MSA",173078,172231,+0.49%
+252,"Greenville, NC MSA",172169,170243,+1.13%
+253,"Oshkosh-Neenah, WI MSA",171623,171730,0.06%
+254,"Bloomington, IL MSA",170889,170954,0.04%
+255,"Pueblo, CO MSA",169622,168162,+0.87%
+256,"East Stroudsburg, PA MSA",169273,168327,+0.56%
+257,"Waterloo-Cedar Falls, IA MSA",167796,168461,0.39%
+258,"Wausau-Weston, WI MSA",166189,166428,0.14%
+259,"Blacksburg-Christiansburg, VA MSA",165293,166378,0.65%
+260,"Janesville-Beloit, WI MSA",164381,163687,+0.42%
+261,"Kahului-Wailuku-Lahaina, HI MSA",164221,164754,0.32%
+262,"Sebastian-Vero Beach, FL MSA",163662,159788,+2.42%
+263,"Idaho Falls, ID MSA",162786,157429,+3.40%
+264,"Bloomington, IN MSA",161321,161039,+0.18%
+265,"Odessa, TX MSA",161091,165171,2.47%
+266,"Jackson, MI MSA",160050,160366,0.20%
+267,"Madera, CA MSA",159410,156255,+2.02%
+268,"Homosassa Springs, FL MSA",158083,153843,+2.76%
+269,"State College, PA MSA",157527,158172,0.41%
+270,"Grand Junction, CO MSA",157335,155703,+1.05%
+271,"Elizabethtown-Fort Knox, KY MSA",156766,155572,+0.77%
+272,"Decatur, AL MSA",156758,156494,+0.17%
+273,"Chambersburg-Waynesboro, PA MSA",156289,155932,+0.23%
+274,"Monroe, MI MSA",155274,154809,+0.30%
+275,"Santa Fe, NM MSA",155201,154823,+0.24%
+276,"Vineland-Bridgeton, NJ MSA",153627,154152,0.34%
+277,"Hanford-Corcoran, CA MSA",153443,152486,+0.63%
+278,"Niles, MI MSA",153101,154316,0.79%
+279,"Bangor, ME MSA",152765,152199,+0.37%
+280,"Logan, UT-ID MSA",152083,147348,+3.21%
+281,"Dothan, AL MSA",151618,151007,+0.40%
+282,"Florence-Muscle Shoals, AL MSA",151517,150791,+0.48%
+283,"Alexandria, LA MSA",150890,152192,0.86%
+284,"Jefferson City, MO MSA",150706,150309,+0.26%
+285,"Sioux City, IA-NE-SD MSA",149265,149940,0.45%
+286,"Valdosta, GA MSA",149152,148126,+0.69%
+287,"Wichita Falls, TX MSA",149013,148128,+0.60%
+288,"Albany, GA MSA",147773,148922,0.77%
+289,"Texarkana, TX-AR MSA",147174,147519,0.23%
+290,"Winchester, VA-WV MSA",145155,142632,+1.77%
+291,"Flagstaff, AZ MSA",145052,145101,0.03%
+292,"Morristown, TN MSA",143855,142709,+0.80%
+293,"Rocky Mount, NC MSA",143535,143870,0.23%
+294,"Lebanon, PA MSA",143493,143257,+0.16%
+295,"Dalton, GA MSA",142799,142837,0.03%
+296,"Rapid City, SD MSA",141979,139074,+2.09%
+297,"Morgantown, WV MSA",140745,140038,+0.50%
+298,"Sherman-Denison, TX MSA",139336,135543,+2.80%
+299,"La Crosse-Onalaska, WI-MN MSA",139211,139627,0.30%
+300,"Wheeling, WV-OH MSA",137740,139513,1.27%
+301,"Napa, CA MSA",136207,138019,1.31%
+302,"Harrisonburg, VA MSA",135824,135571,+0.19%
+303,"Sumter, SC MSA",135782,136700,0.67%
+304,"The Villages, FL MSA",135638,129752,+4.54%
+305,"Springfield, OH MSA",135633,136001,0.27%
+306,"Hammond, LA MSA",135217,133157,+1.55%
+307,"Jonesboro, AR MSA",134878,134196,+0.51%
+308,"Bismarck, ND MSA",134417,133626,+0.59%
+309,"Manhattan, KS MSA",133932,134046,0.09%
+310,"Battle Creek, MI MSA",133819,134310,0.37%
+311,"Carbondale-Marion, IL MSA",132907,133435,0.40%
+312,"Johnstown, PA MSA",132167,133472,0.98%
+313,"Mount Vernon-Anacortes, WA MSA",130696,129523,+0.91%
+314,"Albany-Lebanon, OR MSA",129839,128610,+0.96%
+315,"Pittsfield, MA MSA",128657,129026,0.29%
+316,"Cleveland, TN MSA",127938,126164,+1.41%
+317,"Lawton, OK MSA",127543,126652,+0.70%
+318,"Glens Falls, NY MSA",126574,127039,0.37%
+319,"Ames, IA MSA",126195,125252,+0.75%
+320,"Sierra Vista-Douglas, AZ MSA",126050,125447,+0.48%
+321,"Staunton, VA MSA",125774,125433,+0.27%
+322,"Mansfield, OH MSA",125195,124936,+0.21%
+323,"Wenatchee, WA MSA",123342,122012,+1.09%
+324,"San Angelo, TX MSA",122344,122888,0.44%
+325,"New Bern, NC MSA",122273,122168,+0.09%
+326,"Altoona, PA MSA",121767,122822,0.86%
+327,"Owensboro, KY MSA",121227,121559,0.27%
+328,"Farmington, NM MSA",120993,121661,0.55%
+329,"St. Joseph, MO-KS MSA",120424,121467,0.86%
+330,"Missoula, MT MSA",119533,117922,+1.37%
+331,"Lawrence, KS MSA",119363,118785,+0.49%
+332,"Sheboygan, WI MSA",117747,118034,0.24%
+333,"Twin Falls, ID MSA",116905,114283,+2.29%
+334,"Goldsboro, NC MSA",116835,117333,0.42%
+335,"Watertown-Fort Drum, NY MSA",116295,116721,0.36%
+336,"Anniston-Oxford, AL MSA",115972,116441,0.40%
+337,"Weirton-Steubenville, WV-OH MSA",115585,116903,1.13%
+338,"California-Lexington Park, MD MSA",114468,113777,+0.61%
+339,"Brunswick, GA MSA",113963,113495,+0.41%
+340,"Beckley, WV MSA",113698,115079,1.20%
+341,"Williamsport, PA MSA",113605,114188,0.51%
+342,"Michigan City-La Porte, IN MSA",112390,112417,0.02%
+343,"Muncie, IN MSA",111871,111903,0.03%
+344,"Longview, WA MSA",111524,110730,+0.72%
+345,"Lewiston-Auburn, ME MSA",111034,111139,0.09%
+346,"Kankakee, IL MSA",106601,107502,0.84%
+347,"Ithaca, NY MSA",105162,105740,0.55%
+348,"Fond du Lac, WI MSA",104362,104154,+0.20%
+349,"Gettysburg, PA MSA",104127,103852,+0.26%
+350,"Mankato, MN MSA",103612,103566,+0.04%
+351,"Grand Forks, ND-MN MSA",103462,104362,0.86%
+352,"Sebring-Avon Park, FL MSA",103296,101235,+2.04%
+353,"Gadsden, AL MSA",103162,103436,0.26%
+354,"Bay City, MI MSA",102985,103856,0.84%
+355,"Decatur, IL MSA",102432,103998,1.51%
+356,"Lima, OH MSA",101670,102206,0.52%
+357,"Cheyenne, WY MSA",100863,100512,+0.35%
+358,"Hot Springs, AR MSA",100330,100180,+0.15%
+359,"Rome, GA MSA",98771,98584,+0.19%
+360,"Dubuque, IA MSA",98718,99266,0.55%
+361,"Victoria, TX MSA",98127,98331,0.21%
+362,"Cape Girardeau, MO-IL MSA",97699,97517,+0.19%
+363,"Pocatello, ID MSA",96213,94896,+1.39%
+364,"Corvallis, OR MSA",96017,95184,+0.88%
+365,"Ocean City, NJ MSA",95661,95263,+0.42%
+366,"Fairbanks, AK MSA",95593,95655,0.06%
+367,"Cumberland, MD-WV MSA",94586,95044,0.48%
+368,"Parkersburg-Vienna, WV MSA",88687,89490,0.90%
+369,"Grants Pass, OR MSA",88346,88090,+0.29%
+370,"Pine Bluff, AR MSA",86412,87751,1.53%
+371,"Great Falls, MT MSA",84511,84414,+0.11%
+372,"Kokomo, IN MSA",83687,83658,+0.03%
+373,"Midland, MI MSA",83457,83494,0.04%
+374,"Elmira, NY MSA",83045,84148,1.31%
+375,"Bloomsburg-Berwick, PA MSA",82959,82863,+0.12%
+376,"Hinesville, GA MSA",82863,81424,+1.77%
+377,"Columbus, IN MSA",82475,82208,+0.32%
+378,"Casper, WY MSA",79555,79955,0.50%
+379,"Grand Island, NE MSA",76175,77038,1.12%
+380,"Danville, IL MSA",73095,74188,1.47%
+381,"Lewiston, ID-WA MSA",64851,64375,+0.74%
+382,"Walla Walla, WA MSA",62682,62584,+0.16%
+383,"Enid, OK MSA",61926,62846,1.46%
+384,"Carson City, NV MSA",58993,58639,+0.60%
