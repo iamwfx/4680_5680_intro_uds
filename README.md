@@ -6,9 +6,9 @@ Office Hours: Mondays 1 – 2:30 pm, Wednesdays 11 – 12:30 pm in Sibley Hall 2
 
 ## TA and GTRS
 Zoe Wang (TA) zw553@cornell.edu\
-Office hours: Tuesdays 1 - 2:30 pm in Sibley Hall 205 \
+Office hours: Monday 5:30-6:30 pm in Sibley Hall 305 \
 Yuetong Wang (GTRS) yw795@cornell.edu \
-Office hours: Thursdays 5 - 6pm in Sibley Hall 305
+Office hours: Wednesday 5- 6pm in Sibley Hall 305
 
 ## Class Slack
 Please sign up for our class Slack Group. This is where you can troubleshoot with us and each other. Note that you can add code blocks in your messages.
