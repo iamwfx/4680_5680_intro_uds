@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamwfx/4680_5680_intro_uds.git/HEAD)
 
 # CRP and DESIGN 4580/5680: Introduction to Urban Data Science
 Spring 2023\
