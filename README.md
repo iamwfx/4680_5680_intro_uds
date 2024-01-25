@@ -1,4 +1,7 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamwfx/4680_5680_intro_uds/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamwfx/4680_5680_intro_uds/HEAD) 
+<a target="_blank" href="https://colab.research.google.com/github/iamwfx/4680_5680_intro_uds">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 # CRP and DESIGN 4580/5680: Introduction to Urban Data Science
 
