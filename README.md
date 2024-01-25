@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamwfx/4680_5680_intro_uds/HEAD) 
+[[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamwfx/4680_5680_intro_uds/HEAD)](https://mybinder.org/v2/gh/iamwfx/4680_5680_intro_uds/main) 
 <a target="_blank" href="https://colab.research.google.com/github/iamwfx/4680_5680_intro_uds">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
