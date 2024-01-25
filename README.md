@@ -4,15 +4,15 @@
 
 Spring 2024\
 Professor Wenfei Xu (wenfeixu@cornell.edu)\
-Class details in [Cornell Classes page](https://classes.cornell.edu/)\
+Class details in [Cornell Classes page](https://classes.cornell.edu/)
 Office Hours: Tuesday 3 – 4:30 pm, Thursday 12 – 1:30 pm in Sibley Hall 221
 
 ## GTRS
 
 Rifqi Maulana (ram545@cornell.edu)\
-Office hours: TBD\
+Office hours: 10 – 11 am on Tuesdays in Sibley 318\
 Houpu Li (hl927@cornell.edu)\
-Office hours: TBD\
+Office hours: 10 – 11 am on Thursdays in Sibley 318
 
 ## Course Description
 Urban data science is an emergent practice in geography and urban planning that combines: 1) the set of data analysis tools and methods used to understand a wide array of big data and big spatial data sources and, 2) questions of urban development, structure, complexity, theory, policy, dynamics, and outcomes. These approaches enable more spatiotemporally dynamic and granular analyses of cities and allows researchers new insight into urban dynamics.
