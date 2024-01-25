@@ -1,4 +1,7 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamwfx/4680_5680_intro_uds/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamwfx/4680_5680_intro_uds/main)
+<a target="_blank" href="https://colab.research.google.com/github/iamwfx/4680_5680_intro_uds">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 # CRP and DESIGN 4580/5680: Introduction to Urban Data Science
 
@@ -35,4 +38,4 @@ Weeks 1-12: Every class will include a brief lecture and a tutorial at the end o
 
 Most of the materials from this course will be on the course Github repo here. 
 
-Weeks 13-15: The last three weeks of the class will be devoted to a final project of your choosing that addresses an urban development question. The aim is to synthesize and further develop the skills you have learned throughout the course of the semester. The proposals for the project will be due Week 10. In class for Weeks 14 and 15, each project group or individual will meet with me to discuss your progress, technical or conceptual roadblocks, and next steps. Our last two classes of the semester will be devoted to final presentations. Your final projects will be due on May 18 at 11:59 pm.
+Weeks 13-15: The last three weeks of the class will be devoted to a final project of your choosing that addresses an urban development question. The aim is to synthesize and further develop the skills you have learned throughout the course of the semester. The proposals for the project will be due Week 10. In class for Weeks 14 and 15, each project group or individual will meet with me to discuss your progress, technical or conceptual roadblocks, and next steps. Our last two classes of the semester will be devoted to final presentations. Your final projects will be due on May 17 at 11:59 pm.
