@@ -1,0 +1,13 @@
+﻿Bus Route ID,Departure Time,Arrival Station,Passenger Count,Driver Name
+101,8:00,Central Stn.,45,John Doe
+102,9:30,East Terminal,MISSING,Jane Smith
+103,-,West Hub,30,MISSING
+101A,8:15,Central Station,50,John Doe
+104,10:00,North Plaza,42,J. Brown
+102,MISSING,East Term.,55,Jane Smith
+103,7:50,West Hub,35,Alex Johnson
+101,8:05,Central St.,47,John Doe
+,,,,
+,,,,
+,,,,
+,,,,
