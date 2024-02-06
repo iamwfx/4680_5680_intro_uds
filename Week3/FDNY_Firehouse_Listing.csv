@@ -1,0 +1,220 @@
+FacilityName,FacilityAddress,Borough,Postcode,Latitude,Longitude,Community Board,Community Council ,Census Tract,BIN,BBL,NTA
+Engine 4/Ladder 15,42 South Street,Manhattan,10005,40.703694,-74.007717,101,1,7,1000867,1000350001,Battery Park City-Lower Manhattan
+Engine 6,49 Beekman Street,Manhattan,10038,40.709971,-74.005395,101,1,1501,1001287,1000930030,Battery Park City-Lower Manhattan
+Manhattan Borough Command/Battalion 1/Engine 7/Ladder 1,100 Duane Street,Manhattan,10007,40.715339,-74.0063,101,1,33,1001647,1001500025,SoHo-TriBeCa-Civic Center-Little Italy
+Ladder 8,14 N. Moore Street,Manhattan,10013,40.719574,-74.00662,101,1,33,1002150,1001890035,SoHo-TriBeCa-Civic Center-Little Italy
+Engine 9/Ladder 6,75 Canal Street,Manhattan,10002,40.715408,-73.992834,103,1,16,1003898,1003000030,Chinatown
+Battalion 4/Engine 15/Ladder 18,25 Pitt Street,Manhattan,10002,40.716439,-73.983927,103,1,12,1004078,1003420060,Lower East Side
+Engine 28/Ladder 11,222 East 2 Street,Manhattan,10009,40.721879,-73.982526,103,2,2202,1004608,1003850058,Lower East Side
+Engine 5,340 East 14 Street,Manhattan,10003,40.731494,-73.983407,103,2,40,1006520,1004550028,East Village
+Division 1/Ladder 20,253 Lafayette Street,Manhattan,10012,40.723026,-73.996571,102,1,43,1007523,1004950007,SoHo-TriBeCa-Civic Center-Little Italy
+Engine 33/Ladder 9,42 Great Jones Street,Manhattan,10012,40.726986,-73.992526,102,1,5502,1008526,1005310049,West Village
+Battalion 6/Ladder 3,108 East 13 Street,Manhattan,10003,40.733093,-73.989443,103,2,42,1009010,1005580011,East Village
+Squad 18,132 West 10 Street,Manhattan,10014,40.734518,-74.000381,102,3,71,1010686,1006100051,West Village
+Engine 34/Ladder 21,440 West 38th Street,Manhattan,10018,40.756593,-73.996471,104,3,111,1012982,1007350061,Hudson Yards-Chelsea-Flatiron-Union Square
+Engine 26,220 West 37 Street,Manhattan,10018,40.753107,-73.990376,105,3,109,1014447,1007860061,Midtown-Midtown South
+Battalion 7/Engine 3/Ladder 12,150 West 19 Street,Manhattan,10011,40.741196,-73.996868,104,3,87,1014724,1007940066,Hudson Yards-Chelsea-Flatiron-Union Square
+Engine 1/Ladder 24,142 West 31 Street,Manhattan,10001,40.748474,-73.991188,105,3,101,1015173,1008060066,Midtown-Midtown South
+Engine 14,14 East 18 Street,Manhattan,10003,40.737948,-73.991035,105,2,52,1016141,1008460066,Hudson Yards-Chelsea-Flatiron-Union Square
+Engine 16/Ladder 7,234 East 29 Street,Manhattan,10016,40.741676,-73.97888,106,2,66,1019903,1009090035,Murray Hill-Kips Bay
+Engine 21,238 East 40 Street,Manhattan,10016,40.748642,-73.974027,106,4,88,1020385,1009200042,Turtle Bay-East Midtown
+Battalion 9/Engine 54/Ladder 4,782 Eighth Avenue,Manhattan,10036,40.76072,-73.986793,105,3,125,1024767,1010190061,Midtown-Midtown South
+Engine 23,215 W 58th Street,Manhattan,10019,40.766699,-73.980368,105,4,137,1024915,1010300023,Midtown-Midtown South
+Engine 40/Ladder 35,131 Amsterdam Avenue,Manhattan,10023,40.774562,-73.984225,107,6,149,1028836,1011370061,Lincoln Square
+Division 3/Ladder 25,207 West 77th Street,Manhattan,10024,40.78223,-73.979841,107,6,163,1030885,1011690026,Upper West Side
+Engine 74,120 West 83 Street,Manhattan,10024,40.784697,-73.974602,107,6,169,1032079,1012130041,Upper West Side
+Battalion 8/Engine 8/Ladder 2,165 East 51 Street,Manhattan,10022,40.756891,-73.970805,106,4,100,1036462,1013060033,Turtle Bay-East Midtown
+Engine 44,221 East 75 Street,Manhattan,10021,40.771454,-73.958154,108,4,134,1044059,1014300010,Lenox Hill-Roosevelt Island
+Battalion 10/Engine 22/Ladder 13,159 East 85 Street,Manhattan,10028,40.778622,-73.955311,108,5,14801,1047937,1015140027,Upper East Side-Carnegie Hill
+Engine 58/Ladder 26,1367 Fifth Avenue,Manhattan,10029,40.798913,-73.947333,111,9,184,1051632,1016180014,East Harlem North
+Engine 53/Ladder 43,1836 Third Avenue,Manhattan,10029,40.788923,-73.946985,111,8,166,1051850,1016290040,East Harlem South
+Engine 91,242 East 111 Street,Manhattan,10029,40.793843,-73.940791,111,8,180,1052473,1016600030,East Harlem North
+Battalion 12/Engine 35/Ladder 14,2282 Third Avenue,Manhattan,10035,40.803297,-73.936522,111,8,196,1054465,1017730033,East Harlem North
+Battalion 11/Engine 76/Ladder 22,145 West 100th St.,Manhattan,10025,40.796449,-73.967261,107,7,189,1055910,1018550005,Upper West Side
+Engine 47,500 West 113 Street,Manhattan,10025,40.804946,-73.962932,109,7,199,1056999,1018840038,Morningside Heights
+Engine 59/Ladder 30,111 West 133 Street,Manhattan,10030,40.813332,-73.94245,110,9,226,1058225,1019180024,Central Harlem North-Polo Grounds
+Engine 37/Ladder 40,415 West 125 Street,Manhattan,10027,40.811921,-73.9546,109,7,20901,1059547,1019660061,Morningside Heights
+Engine 84/Ladder 34,513 West 161 Street,Manhattan,10032,40.835918,-73.940959,112,7,245,1062872,1021200046,Washington Heights South
+Engine 95/Ladder 36,29 Vermilyea Avenue,Manhattan,10034,40.864897,-73.925154,112,10,291,1064801,1022240015,Marble Hill-Inwood
+Engine 55,363 Broome Street,Manhattan,10013,40.719841,-73.99576,102,1,41,1066722,1004700012,SoHo-TriBeCa-Civic Center-Little Italy
+Rescue 1,530 West 43 Street,Manhattan,10036,40.760727,-73.996616,104,3,129,1070109,1010710049,Clinton
+Engine 39/Ladder 16,157 E 67th St,Manhattan,10065,40.767062,-73.963612,108,4,120,1072190,1014020029,Upper East Side-Carnegie Hill
+Battalion 16/Engine 69/Ladder 28,248 West 143 Street,Manhattan,10030,40.820847,-73.941821,110,9,232,1075491,1020280051,Central Harlem North-Polo Grounds
+Engine 80/Ladder 23,503 West 139 Street,Manhattan,10031,40.821948,-73.950762,109,7,225,1075504,1020710027,Hamilton Heights
+Battalion 13/Engine 93/Ladder 45,515 West 181 Street,Manhattan,10033,40.848722,-73.931662,112,10,269,1075518,1021550030,Washington Heights North
+Engine 10/Ladder 10,124 Liberty Street,Manhattan,10006,40.709819,-74.012608,101,1,13,1075700,1000520022,Battery Park City-Lower Manhattan
+Engine 65,33 West 43 Street,Manhattan,10036,40.754975,-73.981979,105,4,96,1076256,1012590018,Midtown-Midtown South
+Battalion 2/Engine 24/Ladder 5,227 Sixth Avenue,Manhattan,10014,40.728041,-74.003434,102,3,37,1080044,1005200037,SoHo-TriBeCa-Civic Center-Little Italy
+Engine 67,518 West 170 Street,Manhattan,10032,40.841279,-73.937195,112,10,253,1085743,1021260035,Washington Heights South
+Marine 1,20 Rear Bloomfield Street,Manhattan,10014,40.740647,-74.011815,102,3,79,1086681,1006510105,West Village
+Battalion 14/Engine 60/Ladder 17,341 East 143 Street,Bronx,10454,40.813163,-73.922146,201,8,41,2000656,2023060052,Mott Haven-Port Morris
+Squad 41,330 East 150th Street,Bronx,10451,40.817323,-73.92013,201,17,65,2000930,2023310033,Melrose South-Mott Haven North
+Division 6/Engine 71/Ladder 55,720 Melrose Ave.,Bronx,10455,40.820292,-73.915555,201,17,69,2001400,2023770001,Melrose South-Mott Haven North
+Battalion 26/Engine 50/Ladder 19,1155 Washington Ave.,Bronx,10456,40.82971,-73.908118,203,16,185,2001584,2023880045,Morrisania-Melrose
+Engine 68/Ladder 49,1160 Ogden Ave.,Bronx,10452,40.836659,-73.926919,204,16,199,2003268,2025140056,Highbridge
+Engine 83/Ladder 29,618 East 138 Street,Bronx,10454,40.805819,-73.915834,201,8,2701,2003609,2025500028,Mott Haven-Port Morris
+Battalion 3/Engine 94/Ladder 48,1226 Seneca Ave.,Bronx,10474,40.818581,-73.887778,202,17,11502,2006440,2027620054,Hunts Point
+Engine 42,1781 Monroe Ave.,Bronx,10457,40.846325,-73.906812,205,15,22901,2007448,2027970035,Mount Hope
+Engine 43/Ladder 59,1901 Sedgwick Ave.,Bronx,10453,40.854655,-73.917286,205,16,247,2009252,2028810140,University Heights-Morris Heights
+Engine 46/Ladder 27,460 Cross Bronx Expressway,Bronx,10457,40.843919,-73.90016,206,15,165,2009509,2029070010,Claremont-Bathgate
+Bronx Borough Command,453 E 176 Street,Bronx,10457,40.846372,-73.899241,206,15,395,2009541,2029090040,Claremont-Bathgate
+Engine 82/Ladder 31,1215 Intervale Ave.,Bronx,10459,40.828532,-73.895259,203,17,125,2010447,2029730038,Morrisania-Melrose
+Division 7/Engine 48/Ladder 56,2417 Webster Ave.,Bronx,10458,40.859318,-73.893992,205,15,39902,2011061,2030250025,Bedford Park-Fordham North
+Battalion 18/Engine 45/Ladder 58,925 East Tremont Ave.,Bronx,10460,40.841877,-73.883508,206,17,363,2013192,2031260012,East Tremont
+Battalion 27/Engine 79/Ladder 37,2928 Briggs Ave.,Bronx,10458,40.870279,-73.886581,207,11,40702,2016936,2032970009,Bedford Park-Fordham North
+Engine 96/Ladder 54,1689 Story Ave.,Bronx,10473,40.822986,-73.869357,209,18,46,2022629,2036600001,Soundview-Castle Hill-Clason Point-Harding Park
+Engine 90/Ladder 41,1843 White Plains Rd.,Bronx,10462,40.846365,-73.8668,211,15,236,2043470,2040490049,Van Nest-Morris Park-Westchester Square
+Battalion 20/Squad 61,1518 Williamsbridge Road,Bronx,10461,40.845048,-73.846393,211,13,200,2044205,2040820011,Van Nest-Morris Park-Westchester Square
+Engine 97,1454 Astor Ave.,Bronx,10469,40.859347,-73.844162,211,13,314,2050740,2043890023,Allerton-Pelham Gardens
+Engine 62/Ladder 32,3431 White Plains Road,Bronx,10467,40.876269,-73.867362,212,12,374,2056968,2046280053,Williamsbridge-Olinville
+Engine 38/Ladder 51,3446 Eastchester Road,Bronx,10469,40.877984,-73.846513,212,12,386,2060238,2047230045,Eastchester-Edenwald-Baychester
+Battalion 15/Engine 63/Ladder 39,755 East 233 Street,Bronx,10466,40.893028,-73.85531,212,12,434,2068155,2049970013,Woodlawn-Wakefield
+Engine 66/Ladder 61,21 Asch Loop,Bronx,10475,40.869725,-73.831197,210,12,46201,2072355,2051410103,Co-op City
+Engine 89/Ladder 50,2924 Bruckner Blvd.,Bronx,10465,40.833339,-73.827088,210,13,164,2076433,2054190125,Schuylerville-Throgs Neck-Edgewater Park
+Engine 72,3929 East Tremont Ave.,Bronx,10465,40.821311,-73.818248,210,13,130,2077258,2054430170,Schuylerville-Throgs Neck-Edgewater Park
+Engine 70/Ladder 53,169 Schofield Street,Bronx,10464,40.845574,-73.784695,210,13,516,2082474,2056420118,Pelham Bay-Country Club-City Island
+Engine 52/Ladder 52,4550 Henry Hudson Parkway E.,Bronx,10471,40.892118,-73.907656,208,11,335,2084327,2058130123,North Riverdale-Fieldston-Riverdale
+Engine 88/Ladder 38,2225 Belmont Ave.,Bronx,10457,40.851907,-73.887837,206,15,391,2086781,2030860038,Belmont
+Engine 81/Ladder 46,3025 Bailey Ave.,Bronx,10463,40.876945,-73.903669,208,14,277,2086837,2032660068,Van Cortlandt Village
+Engine 73/Ladder 42,655 Prospect Ave.,Bronx,10455,40.815274,-73.903785,201,17,79,2094318,2026750033,Melrose South-Mott Haven North
+Engine 64/Ladder 47,1214 Castle Hill Ave.,Bronx,10462,40.832437,-73.850876,209,18,92,2094870,2038210007,Westchester-Unionport
+Battalion 17/Engine 92/Ladder 44,1259 Morris Ave.,Bronx,10456,40.834679,-73.913625,204,16,17901,2096490,2024500040,East Concourse-Concourse Village
+Rescue 3,1655 Washington Ave,Bronx,10457,40.841225,-73.901507,203,16,167,2117925,2029050030,Claremont-Bathgate
+Battalion 19/Engine 75/Ladder 33,2175 Walton Ave.,Bronx,10453,40.856228,-73.904423,205,14,239,2118039,2031860037,Fordham South
+Brooklyn Borough Command/Division 11/Battalion 31/Engine 207/Ladder 110,172 Tillary Street,Brooklyn,11201,40.69545,-73.982843,302,35,15,3000252,3001340006,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+Engine 226,409 State Street,Brooklyn,11217,40.68707,-73.982768,302,33,41,3000562,3001720048,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+Engine 205/Ladder 118,74 Middagh Street,Brooklyn,11201,40.700029,-73.992273,302,33,1,3001600,3002160022,Brooklyn Heights-Cobble Hill
+Engine 224,274 Hicks Street,Brooklyn,11201,40.693072,-73.99708,302,33,7,3002336,3002600036,Brooklyn Heights-Cobble Hill
+Engine 279/Ladder 131,252 Lorraine St.,Brooklyn,11231,40.672118,-73.999666,306,38,53,3008207,3004860018,Carroll Gardens-Columbia Street-Red Hook
+Battalion 32/Engine 202/Ladder 101,31 Richards Street,Brooklyn,11231,40.680386,-74.006438,306,38,59,3008254,3005120022,Carroll Gardens-Columbia Street-Red Hook
+Engine 228,436 39th St,Brooklyn,11232,40.651814,-74.005327,307,38,84,3010534,3007090019,Sunset Park West
+Squad 1,788 Union Street,Brooklyn,11215,40.674649,-73.97667,306,39,157,3020193,3009570023,Park Slope-Gowanus
+Engine 239,395 4th Ave.,Brooklyn,11215,40.671782,-73.987239,306,39,137,3021578,3009930005,Park Slope-Gowanus
+Engine 220/Ladder 122,530 11th Street,Brooklyn,11215,40.66495,-73.981452,306,39,151,3026278,3010960025,Park Slope-Gowanus
+Engine 219/Ladder 105,494 Dean Street,Brooklyn,11217,40.681192,-73.973851,308,35,161,3027813,3011360011,Prospect Heights
+Engine 280/Ladder 132,489 Saint John's Place,Brooklyn,11238,40.673473,-73.961641,308,35,215,3029451,3011740051,Prospect Heights
+Battalion 38/Engine 234/Ladder 123,1352 Saint John's Place,Brooklyn,11213,40.670443,-73.933495,308,35,351,3037055,3013840008,Crown Heights North
+Engine 227,423 Ralph Ave.,Brooklyn,11233,40.674781,-73.921728,316,41,303,3038838,3014450002,Ocean Hill
+Engine 233/Ladder 176,25 Rockaway Ave.,Brooklyn,11233,40.682712,-73.911396,316,37,369,3040990,3015120001,Ocean Hill
+Engine 217,940 Dekalb Avenue,Brooklyn,11221,40.692759,-73.937993,303,36,281,3043215,3016010023,Stuyvesant Heights
+Battalion 37/Engine 222,32 Ralph Ave.,Brooklyn,11221,40.689591,-73.924433,303,41,387,3044596,3016330039,Stuyvesant Heights
+Engine 214/Ladder 111,495 Hancock Street,Brooklyn,11233,40.68441,-73.935771,303,36,275,3045695,3016540045,Stuyvesant Heights
+Engine 230,701 Park Avenue,Brooklyn,11206,40.698066,-73.947507,303,36,257,3048373,3017300049,Bedford
+Battalion 57/Engine 235,206 Monroe Street,Brooklyn,11216,40.685175,-73.951098,303,36,245,3051323,3018170048,Bedford
+Ladder 102,850 Bedford Ave.,Brooklyn,11205,40.695608,-73.956614,303,33,1237,3054771,3019000050,Bedford
+Engine 210,160 Carlton Ave.,Brooklyn,11205,40.692799,-73.973006,302,35,183,3058296,3020720033,Fort Greene
+Engine 211/Ladder 119,26 Hooper Street,Brooklyn,11249,40.701379,-73.962289,301,33,539,3060298,3022030016,Williamsburg
+Engine 221/Ladder 104,161 South 2nd Street,Brooklyn,11211,40.713175,-73.961113,301,34,551,3062972,3024060035,North Side-South Side
+Battalion 35/Engine 216/Ladder 108,187 Union Ave.,Brooklyn,11211,40.706236,-73.95062,301,34,527,3063633,3024650100,North Side-South Side
+Engine 238/Ladder 106,205 Greenpoint Ave.,Brooklyn,11222,40.730747,-73.951144,301,33,579,3064786,3025600050,Greenpoint
+Engine 229/Ladder 146,75 Richardson Street,Brooklyn,11211,40.718619,-73.949024,301,33,515,3067898,3027220028,North Side-South Side
+Engine 206,1201 Grand Street,Brooklyn,11211,40.715301,-73.928159,301,34,449,3070506,3029290053,East Williamsburg
+Engine 237,43 Morgan Ave.,Brooklyn,11237,40.705312,-73.931932,301,34,453,3071494,3031020023,Bushwick North
+Engine 218,650 Hart Street,Brooklyn,11221,40.698312,-73.92659,304,34,423,3073407,3032280013,Bushwick South
+Battalion 28/Engine 271/Ladder 124,392 Himrod Street,Brooklyn,11237,40.70363,-73.91602,304,37,443,3074885,3032810022,Bushwick North
+Engine 277/Ladder 112,582 Knickerbocker Ave.,Brooklyn,11221,40.696397,-73.914659,304,37,433,3076461,3033430029,Bushwick North
+Squad 252,617 Central Ave.,Brooklyn,11207,40.688597,-73.90814,304,37,411,3079480,3034290003,Bushwick South
+Battalion 44/Engine 231/Ladder 120,107 Watkins Street,Brooklyn,11212,40.67057,-73.907891,316,37,906,3080767,3035070005,Brownsville
+Division 15/Engine 283,885 Howard Ave.,Brooklyn,11212,40.660966,-73.917952,316,41,894,3081953,3035800020,Brownsville
+Engine 332/Ladder 175,165 Bradford st.,Brooklyn,11207,40.675471,-73.892695,305,37,1198,3083579,3036910001,East New York
+Engine 290/Ladder 103,480 Sheffield Ave.,Brooklyn,11207,40.665123,-73.895447,305,42,1126,3084622,3038040043,East New York (Pennsylvania Ave)
+Engine 236,998 Liberty Ave.,Brooklyn,11208,40.677748,-73.872797,305,37,1196,3094289,3041940020,East New York
+Battalion 39/Engine 225/Ladder 107,799 Lincoln Ave.,Brooklyn,11208,40.669446,-73.865383,305,42,1208,3095894,3042710075,East New York
+Engine 310/Ladder 174,5105 Snyder Ave.,Brooklyn,11203,40.650355,-73.928888,317,41,862,3102909,3046990040,Rugby-Remsen Village
+Engine 249/Ladder 113,491 Rogers Ave.,Brooklyn,11225,40.660257,-73.953293,309,40,800,3114990,3050330004,Prospect Lefferts Gardens-Wingate
+Battalion 41/Engine 248,2900 Snyder Ave.,Brooklyn,11226,40.648746,-73.949987,317,40,824,3117400,3051110024,Erasmus
+Engine 281/Ladder 147,1210 Cortelyou Road,Brooklyn,11218,40.640024,-73.966669,314,40,526,3118638,3051550004,Flatbush
+Engine 255/Ladder 157,1367 Rogers Ave.,Brooklyn,11210,40.636444,-73.95064,314,45,788,3120929,3052290009,Flatbush
+Battalion 48/Engine 240,1307 Prospect Ave.,Brooklyn,11218,40.651175,-73.975574,307,39,504,3122838,3052850021,Windsor Terrace
+Engine 282/Ladder 148,4210 12th Ave.,Brooklyn,11219,40.640182,-73.990752,312,39,224,3135859,3055970044,Borough Park
+Engine 247,1336 60th Street,Brooklyn,11219,40.62802,-73.997775,312,44,192,3141309,3057190022,Borough Park
+Engine 241/Ladder 109,6630 3rd Avenue,Brooklyn,11220,40.638157,-74.025161,310,43,70,3144349,3058410040,Bay Ridge
+Engine 242,9219 5th Ave.,Brooklyn,11209,40.617389,-74.02952,310,43,160,3155323,3061090019,Bay Ridge
+Engine 284/Ladder 149,1157 79th St.,Brooklyn,11228,40.619955,-74.012537,310,43,202,3161800,3062540053,Dyker Heights
+Battalion 42/Engine 243/Ladder 168,8653 18th Ave.,Brooklyn,11214,40.606037,-74.003495,311,47,278,3166596,3063690024,Bensonhurst West
+Engine 250,126 Foster Ave.,Brooklyn,11230,40.627757,-73.97558,314,44,46201,3170273,3064990011,Flatbush
+Engine 330/Ladder 172,2312 65th Street,Brooklyn,11204,40.612127,-73.979153,311,44,434,3173419,3065800006,Bensonhurst East
+Battalion 33/Engine 276/Ladder 156,1635 E. 14th Street,Brooklyn,11229,40.609365,-73.959131,315,48,554,3182420,3067770064,Homecrest
+Engine 253,2429 86th Street,Brooklyn,11214,40.598957,-73.988518,311,47,298,3185381,3068590067,Bensonhurst East
+Engine 318/Ladder 166,2510 Neptune Ave.,Brooklyn,11224,40.57776,-73.993011,313,47,328,3188880,3070130007,Seagate-Coney Island
+Engine 254/Ladder 153,901 Avenue U,Brooklyn,11223,40.598496,-73.962008,315,47,394,3192210,3071120049,Homecrest
+Battalion 43/Engine 245/Ladder 161,2929 W. 8th Street,Brooklyn,11224,40.576735,-73.97616,313,48,354,3196591,3072790290,West Brighton
+Battalion 58/Engine 257/Ladder 170,1361 Rockaway Parkway,Brooklyn,11236,40.646611,-73.903569,318,42,974,3229407,3081660033,Canarsie
+Engine 323,6405 Avenue N,Brooklyn,11234,40.620133,-73.915859,318,46,69602,3235919,3083640006,Georgetown-Marine Park-Bergen Beach-Mill Basin
+Engine 309/Ladder 159,1851 E. 48 Street,Brooklyn,11234,40.615256,-73.928169,318,46,672,3239495,3084880016,Flatlands
+Engine 246/Ladder 169,2732 E. 11th Street,Brooklyn,11235,40.584275,-73.959413,315,48,608,3246894,3087610038,Sheepshead Bay-Gerritsen Beach-Manhattan Beach
+Engine 321,2165 Gerritsen Ave.,Brooklyn,11229,40.602267,-73.935188,315,46,638,3248186,3088170049,Madison
+Marine Battlion/Marine 6,Brooklyn Navy Yard Building 292,Brooklyn,11205,40.705184,-73.971631,302,33,543,3335122,3020230001,park-cemetery-etc-Brooklyn
+Battalion 40/Engine 201/Ladder 114,5113 4th Avenue,Brooklyn,11220,40.645405,-74.01318,307,38,78,3414005,3007990003,Sunset Park West
+Rescue 2,1815 Sterling Place,Brooklyn,11233,40.671045,-73.918868,316,41,363,3421359,3014670022,Ocean Hill
+Engine 258/Ladder 115,10-40 47th Ave.,Queens,11101,40.744986,-73.951755,402,26,7,4000333,4000460034,Hunters Point-Sunnyside-West Maspeth
+Engine 325/Ladder 163,41-24 51st Street,Queens,11377,40.745278,-73.913705,402,26,25302,4000979,4001310031,Hunters Point-Sunnyside-West Maspeth
+Battalion 45/Engine 259/Ladder 128,33-51 Greenpoint Avenue,Queens,11101,40.736398,-73.933203,402,26,199,4003673,4003070033,Hunters Point-Sunnyside-West Maspeth
+Engine 260,11-15 37th Avenue,Queens,11101,40.759679,-73.940085,401,26,85,4004305,4003520035,Queensbridge-Ravenswood-Long Island City
+Ladder 116,37-20 29th Street,Queens,11101,40.755402,-73.933266,401,26,51,4004505,4003700023,Queensbridge-Ravenswood-Long Island City
+Engine 262,30-89 21st Street,Queens,11102,40.767526,-73.929232,401,22,79,4006338,4005510016,Old Astoria
+Engine 263/Ladder 117,"42-06, 42-08 Astoria Blvd. South",Queens,11103,40.768225,-73.908849,401,22,141,4011565,4006880017,Astoria
+Battalion 49/Engine 312,22-63 35th St.,Queens,11105,40.773444,-73.910434,401,22,117,4016405,4008220007,Steinway
+Engine 307/Ladder 154,81-17 Northern Blvd.,Queens,11372,40.755804,-73.885639,403,25,327,4026949,4011770036,Jackson Heights
+Engine 289/Ladder 138,97-28 43rd Avenue,Queens,11368,40.74617,-73.865316,404,21,409,4040712,4016280018,North Corona
+Engine 316,27-12 Kearney Street,Queens,11369,40.762427,-73.869022,403,21,367,4041276,4016580005,East Elmhurst
+Division 14/Engine 324,108-01 Horace Harding Exp.,Queens,11368,40.737914,-73.851944,404,21,43701,4048310,4019640065,Corona
+Engine 292/Rescue 4,64-18 Queens Blvd.,Queens,11377,40.740771,-73.900987,402,26,245,4053652,4023250037,Woodside
+Squad 288,56-29 68th Street,Queens,11378,40.726096,-73.896235,405,30,511,4055348,4023950004,Maspeth
+Battalion 46/Engine 287/Ladder 136,86-53 Grand Avenue,Queens,11373,40.736454,-73.878888,404,25,475,4057367,4024770026,Elmhurst
+Engine 305/Ladder 151,111-02 Queens Blvd.,Queens,11375,40.718186,-73.837707,406,29,76901,4078827,4032940020,Forest Hills
+Engine 286/Ladder 135,66-44 Myrtle Avenue,Queens,11385,40.701217,-73.886656,405,30,629,4090228,4037000021,Glendale
+Engine 319,78-11 67th Road,Queens,11379,40.712579,-73.874942,405,30,621,4091550,4037760056,Middle Village
+Engine 297/Ladder 130,119-11 14th Road,Queens,11356,40.784923,-73.848081,407,19,929,4098032,4040540017,College Point
+Engine 295/Ladder 144,12-49 149th Street,Queens,11357,40.78898,-73.815949,407,19,981,4102462,4045050007,Whitestone
+Engine 273/Ladder 129,40-18 Union Street,Queens,11354,40.759869,-73.82657,407,20,853,4113561,4050190066,Flushing
+Battalion 52/Engine 274,41-20 Murray Street,Queens,11355,40.762498,-73.812648,407,20,1167,4114925,4050580037,Murray Hill
+Engine 320/Ladder 167,36-18 Francis Lewis Blvd.,Queens,11358,40.763311,-73.786997,411,19,1139,4120143,4053190008,Auburndale
+Engine 306,40-18 214th Place,Queens,11361,40.763944,-73.769678,411,19,1123,4138284,4062880032,Bayside-Bayside Hills
+Engine 315/Ladder 125,159-06 Union Turnpike,Queens,11366,40.720109,-73.807759,408,24,1265,4148377,4068540028,Pomonok-Flushing Heights-Hillcrest
+Engine 299/Ladder 152,61-20 Utopia Parkway,Queens,11365,40.738158,-73.793385,408,24,1341,4148798,4068910003,Fresh Meadows-Utopia
+Battalion 53/Engine 326/Ladder 160,64-04 Springfield Blvd.,Queens,11364,40.747005,-73.75597,411,23,1367,4162454,4076210012,Oakland Gardens
+Engine 313/Ladder 164,44-01 244th Street,Queens,11363,40.76677,-73.742328,411,19,1479,4168901,4081120192,Douglas Manor-Douglaston-Little Neck
+Engine 251,254-20 Union Turnpike,Queens,11004,40.744476,-73.716081,413,23,157902,4177508,4086910013,Glen Oaks-Floral Park-New Hyde Park
+Engine 293,89-40 87th Street,Queens,11421,40.688614,-73.855934,409,32,8,4185536,4089680025,Woodhaven
+Engine 285/Ladder 142,103-17 98th Street,Queens,11417,40.682524,-73.84186,410,32,4002,4189682,4091210072,Ozone Park
+Engine 294/Ladder 143,101-02 Jamaica Avenue,Queens,11418,40.694829,-73.846238,409,32,28,4194106,4092860006,Richmond Hill
+Division 13/Squad 270,91-45 121st Street,Queens,11418,40.695297,-73.825876,409,29,14202,4196913,4093750007,Richmond Hill
+Battalion 51/Engine 308,107-12 Lefferts Blvd.,Queens,11419,40.683905,-73.823361,410,28,106,4205407,4095980010,South Ozone Park
+Battalion 50/Engine 298/Ladder 127,153-11 Hillside Avenue,Queens,11432,40.707617,-73.804199,408,24,236,4207481,4097060066,Briarwood-Jamaica Hills
+Engine 303/Ladder 126,104-12 Princeton Street,Queens,11435,40.693527,-73.806938,412,28,204,4214846,4100460014,Jamaica
+Engine 275/Ladder 133,111-36 Merrick Blvd.,Queens,11433,40.693448,-73.781107,412,27,266,4217371,4102080045,South Jamaica
+Engine 301/Ladder 150,91-04 197th Street,Queens,11423,40.714467,-73.763078,412,23,484,4222434,4104640025,Hollis
+Engine 304/Ladder 162,218-44 97th Avenue,Queens,11429,40.716907,-73.735945,413,27,568,4230875,4107700023,Queens Village
+Engine 302/Ladder 155,143-15 Rockaway Blvd.,Queens,11436,40.674054,-73.795083,412,28,182,4261544,4120460002,Baisley Park
+Battalion 54/Engine 317/Ladder 165,117-11 196th Street,Queens,11412,40.693122,-73.755649,412,27,394,4271743,4126170040,St. Albans
+Engine 311/Ladder 158,145-50 Springfield Blvd.,Queens,11413,40.663608,-73.759838,413,31,320,4286093,4133610200,Springfield Gardens South-Brookville
+Engine 314,142-04 Brookville Blvd.,Queens,11422,40.664034,-73.740698,413,31,654,4287743,4135380015,Rosedale
+Engine 331/Ladder 173,158-57 Cross Bay Blvd.,Queens,11414,40.659245,-73.839515,410,32,892,4295071,4141630101,Lindenwood-Howard Beach
+Engine 268/Ladder 137,257 Beach 116th Street,Queens,11694,40.580747,-73.838055,414,32,93402,4304442,4162120017,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+Engine 329,402 B. 169 Street,Queens,11695,40.566009,-73.881526,484,32,918,4307098,4163250300,park-cemetery-etc-Queens
+Engine 266,92-20 Rockaway Beach Blvd.,Queens,11693,40.586283,-73.816238,414,32,94202,4439014,4161270001,Hammels-Arverne-Edgemere
+Engine 291/Ladder 140,56-07 Metropolitan Avenue,Queens,11385,40.713082,-73.906674,405,30,595,4440960,4026460018,Ridgewood
+Engine 264/Engine 328/Ladder 134,"16-15, 16-17, 16-19 Central Ave.",Queens,11691,40.604819,-73.75213,414,31,103202,4529057,4155590025,Far Rockaway-Bayswater
+Queens Borough Command,420A Weaver Ave,Queens,11359,40.793268,-73.776297,407,19,999,4538413,4059170001,Ft. Totten-Bay Terrace-Clearview
+Battalion 47/Engine 265/Ladder 121,48-06 Rockaway Beach Blvd,Queens,11691,40.593539,-73.779164,414,31,97204,4539800,4158400001,Hammels-Arverne-Edgemere
+Engine 155/Ladder 78,14 Brighton Avenue,Staten Island,10301,40.637547,-74.087694,501,49,77,5002472,5001030020,West New Brighton-New Brighton-St. George
+Battalion 22/Ladder 79,1189 Castleton Avenue,Staten Island,10310,40.634384,-74.122039,501,49,13302,5005308,5001980136,West New Brighton-New Brighton-St. George
+Engine 156,412 Broadway,Staten Island,10310,40.630985,-74.116719,501,49,125,5005815,5002170050,West New Brighton-New Brighton-St. George
+Engine 163/Ladder 83,875 Jewett Avenue,Staten Island,10314,40.615247,-74.130815,501,50,151,5010816,5003770018,Westerleigh
+Engine 153/Ladder 77,74 Broad Street,Staten Island,10304,40.625033,-74.077692,501,49,27,5013836,5005290009,Stapleton-Rosebank
+Engine 165/Ladder 85,3067 Richmond Road,Staten Island,10306,40.576077,-74.123714,502,50,181,5023532,5009490001,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill
+Engine 157/Ladder 80,1573 Castleton Avenue,Staten Island,10302,40.636191,-74.135394,501,49,207,5025442,5010800002,Port Richmond
+Engine 158,65 Harbor Road,Staten Island,10303,40.635265,-74.160052,501,49,223,5027755,5012270025,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+Engine 166/Ladder 86,1400 Richmond Avenue,Staten Island,10314,40.614264,-74.158172,502,50,29104,5031692,5016120005,New Springville-Bloomfield-Travis
+Staten Island Borough Command/Squad 8,3730 Victory Boulevard,Staten Island,10314,40.59793,-74.180532,502,50,29102,5041882,5026650025,New Springville-Bloomfield-Travis
+Battalion 21/Engine 152,256 Hylan Blvd.,Staten Island,10305,40.611716,-74.070475,501,49,8,5042846,5028560015,Stapleton-Rosebank
+Engine 161/Ladder 81,278 McClean Avenue,Staten Island,10305,40.596763,-74.069879,502,50,74,5045654,5031080025,Grasmere-Arrochar-Ft. Wadsworth
+Division 8/Engine 160/Rescue 5,1850 Clove Road,Staten Island,10304,40.60732,-74.089242,502,50,50,5046179,5031530038,Grasmere-Arrochar-Ft. Wadsworth
+Engine 159,1592 Richmond Road,Staten Island,10304,40.590714,-74.100608,502,50,9602,5048682,5033060008,Old Town-Dongan Hills-South Beach
+Battalion 23/Engine 162/Ladder 82,256 Nelson Ave.,Staten Island,10308,40.543104,-74.147405,503,51,15601,5067428,5052710031,Great Kills
+Engine 167/Ladder 87,345 Annadale Road,Staten Island,10312,40.554191,-74.175479,503,51,17012,5075428,5056420006,Annadale-Huguenot-Prince's Bay-Eltingville
+Engine 164/Ladder 84,1560 Drumgoole Road West,Staten Island,10312,40.535418,-74.196059,503,51,20804,5083491,5068280065,Rossville-Woodrow
+Engine 151/Ladder 76,7219 Amboy Road,Staten Island,10307,40.512739,-74.23895,503,51,248,5089056,5080400010,Charleston-Richmond Valley-Tottenville
+Engine 168,1100 Rossville Ave,Staten Island,10309,40.553942,-74.213083,503,51,20801,5154879,5070670252,Rossville-Woodrow
+Marine 9,305 Front Street,Staten Island,10304,40.629954,-74.07243,501,49,21,5169276,5004870100,Stapleton-Rosebank
